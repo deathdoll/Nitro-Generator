@@ -1,10 +1,10 @@
 {
-    "proxies": "socks4",
+    "proxies": "deathdoll",
     "thread": "200",
 
     "webhook": {
-        "url": "https://discord.com/api/webhooks/0000000000000000000/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-        "username": "Nitro Hits",
+        "url": "https://discord.com/api/webhooks/971428172337905665/95hAnaNkoeHY8t9n_WdMMuoXGOQ75yxqZtv2ep7aqEk0JnDKQ3IDFE_KN-VQPuTswJwI",
+        "username": "Captain Hook",
         "avatar": "https://cdn.discordapp.com/avatars/851905439809142856/6b09c26b7194e3aa7c84b7505a36a13e.webp?size=128"
     }
 }
